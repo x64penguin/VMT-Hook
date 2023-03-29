@@ -1,0 +1,7 @@
+.vs/
+Release/
+Debug/
+x86/
+x64/
+VMT-Hook.sln
+*.vcxproj*
